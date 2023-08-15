@@ -7,11 +7,8 @@ This Note Taker application allows users to write, save and delete notes in one 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-
+URL: https://whispering-wildwood-13953-2a7033998baf.herokuapp.com/
 
 ![Note Taker Demo Home Page](./mock-up/11-express-homework-demo-01.png)
 ![Note Taker Demo Note Page](./mock-up/11-express-homework-demo-02.png)
